@@ -4,7 +4,9 @@
 
 
 -  I’m currently learning BSc Hons, Computer Science at **University of Westminster**
+-  Fitness freak🏋🏽🔥
 - How to reach me <strong><a href="mailto:akindu415@gmail.com">akindu415@gmail.com</a></strong>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/akindu bandara](https://www.linkedin.com/in/akindu-bandara-680001308/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akindu bandara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akindu bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akindu bandara" height="30" width="40" /></a>
 <a href="https://fb.com/akindu bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akindu bandara" height="30" width="40" /></a>
 <a href="https://instagram.com/akindu_bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akindu_bandara" height="30" width="40" /></a>
 </p>
